@@ -10,7 +10,7 @@ MODELO_DETECTOR_CARAS = "haarcascade_frontalface_default.xml"
 
 # Listas con los posibles resultados de edad y género
 LISTA_EDAD = ['(0-2)', '(4-6)', '(8-12)', '(15-20)', '(25-32)', '(38-43)', '(48-53)', '(60-100)']
-LISTA_GENERO = ['Hombre', 'Mujer']
+LISTA_GENERO = ['Fachero', 'Fachera']
 
 # Valores medios de píxeles para el preprocesamiento de la imagen
 VALORES_MEDIOS_MODELO = (78.4263377603, 87.7689143744, 114.895847746)
