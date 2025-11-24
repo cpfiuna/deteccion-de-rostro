@@ -1,6 +1,6 @@
 # Detección de Rostro con Predicción de Edad y Género
 
-Un sistema de detección de rostros en tiempo real que utiliza **OpenCV** y redes neuronales profundas para identificar caras y predecir la edad y género de las personas detectadas a través de la cámara web.
+Un sistema de detección de rostros en tiempo real que utiliza **OpenCV** y redes neuronales profundas para identificar caras y predecir la edad y género de las personas detectadas a través de la cámara web. Desarrollado para el día de FIUNA Puertas Abiertas 2025.
 
 ## 🚀 Características
 
